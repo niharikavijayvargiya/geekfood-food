@@ -1,0 +1,19 @@
+.main-container {
+    text-align: center;
+}
+
+label {
+    font-size: 20px;
+}
+
+.main-container input {
+    height: 30px;
+}
+
+.food-container {
+    justify-content: center;
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
